@@ -1,8 +1,8 @@
 # Zabbix → MAX Alertscripts
 
-Python scripts to send Zabbix alerts to MAX (https://max.ru) via HTTP API.
+Send Zabbix alerts to MAX via HTTP API.
 
-Designed as a lightweight replacement for Telegram notifications in restricted environments.
+Replacement for Telegram notifications in restricted environments.
 
 ---
 
